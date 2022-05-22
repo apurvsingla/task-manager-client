@@ -1,0 +1,10 @@
+export const LOGIN_ACTION = "LOGIN_ACTION";
+export const REGISTER_ACTION = "REGISTER_ACTION";
+export const LOG_OUT = "LOG_OUT";
+export const USER_DETAILS = "USER_DETAILS";
+export const FETCH_TASKS = "FETCH_TASKS";
+export const FIND_USERS = "FIND_USERS";
+export const EMPTY_USER_LIST = "EMPTY_USER_LIST";
+export const FIND_TASKS = "FIND_TASKS";
+export const LOG_OUT_ACTION = "LOG_OUT_ACTION";
+export const BASE_URL = "https://task-manager-services.herokuapp.com";
