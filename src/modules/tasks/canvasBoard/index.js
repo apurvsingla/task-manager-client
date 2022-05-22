@@ -185,9 +185,9 @@ function CanvasBoard(props) {
     }
   };
 
-  const updateTask = async () => {
-    console.log("update Task");
-  };
+  // const updateTask = async () => {
+  //   console.log("update Task");
+  // };
 
   return (
     <div
